@@ -18,4 +18,3 @@ def printer(array)
   puts assign_rooms(array)
 end
 
-printer(speakers)
